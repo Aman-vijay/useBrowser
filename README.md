@@ -6,7 +6,7 @@ A  browser automation tool that uses Playwright's real browser control with Open
 
 ##Demo - 
 [![Youtube Video]
-[https://www.youtube.com/watch?v=roJ2bHhALX0]
+(https://www.youtube.com/watch?v=roJ2bHhALX0)
 
 ## 🎯 Overview
 
