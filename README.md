@@ -4,9 +4,10 @@
 
 A  browser automation tool that uses Playwright's real browser control with OpenAI's Agent API and tools  to create a web automation assistant. This tool can autonomously navigate websites, analyze page structures, interact with elements, and complete complex workflows like user registration processes.
 
-##Demo - 
-[![Youtube Video]
-(https://www.youtube.com/watch?v=roJ2bHhALX0)
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/roJ2bHhALX0/0.jpg)](https://www.youtube.com/watch?v=roJ2bHhALX0)
+
 
 ## 🎯 Overview
 
@@ -67,6 +68,11 @@ cd website-automation-agent
 pnpm install
 # or
 npm install
+```
+
+###Install PlayWright chromium
+```bash
+npx playwright install chromium
 ```
 
 ### Configuration
